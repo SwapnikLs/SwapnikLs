@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SwapnikLs
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning ML and DSA
-- 📫 swapniklatupally@gamil.com
+- 📫 Email=swapniklatupally@gamil.com
 =
 
 <!---
